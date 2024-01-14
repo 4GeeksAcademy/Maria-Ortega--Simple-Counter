@@ -3,10 +3,13 @@ display: flex;
 text-align: center;
 background: black;
 height: 100px;
+width: 500px;
+margin: 0 auto;
 }
-.oneDigit, .twoDigits, .threeDigist, .fourDigits {
+.digit {
 font-size: 80px;
 text-align: center;
 color:white;
 position: relative;
+margin: 0 7px;
 }
